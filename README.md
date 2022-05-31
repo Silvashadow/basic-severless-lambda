@@ -1,1 +1,1 @@
-# basic-severless-lambdas
+# basic-severless-lambda
