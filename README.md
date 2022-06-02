@@ -1,1 +1,1 @@
-# basic-severless-lambda-deployment
+# basic-severless-lambda-deployments
